@@ -11,4 +11,7 @@ In this repository, I am publishing my analysis of indeed data for data scientis
 ### Exploring and Visualizing
 * Used Tableau to explore and visualize the data
 
+![](img1.png)
+![](img2.png)
+
 
